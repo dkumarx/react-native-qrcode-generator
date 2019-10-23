@@ -20,3 +20,6 @@ Node file : https://github.com/soldair/node-qrcode [Info]
 
 
 To save generated code in gallery [RNFS - React Native File System] - react-native-fs
+
+# Adding ReactNativeViewShot for capture image
+	https://github.com/gre/react-native-view-shot
