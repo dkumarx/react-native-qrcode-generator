@@ -7,7 +7,8 @@ React-native QR code
 React-native: 
 React-native-svg: https://github.com/react-native-community/react-native-svg 
 	Note: React-navtive (0.60+) doesn’t required to linking with react-native-svg 
-	[ AUTOLINKING - https://github.com/react-native-community/cli/blob/master/docs/autolinking.md ]
+	
+[ AUTOLINKING - https://github.com/react-native-community/cli/blob/master/docs/autolinking.md ]
 
 
 React-native-qrcode-svg:	https://www.npmjs.com/package/react-native-qrcode-svg
